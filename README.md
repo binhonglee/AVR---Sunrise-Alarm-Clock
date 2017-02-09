@@ -1,4 +1,4 @@
-# AVR - Sunrise Alarm Clock
+# Sunrise Alarm Clock
 
 The program is written for an ATMEGA168 programmed through an AVR.
 
