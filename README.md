@@ -2,7 +2,7 @@
 
 The program is written for an ATMEGA168 programmed through an AVR.
 
-**For a comprehensive guide (or hardware side tutorial), please go to [https://binhonglee.github.io/AVR---Sunrise-Alarm-Clock](https://binhonglee.github.io/AVR---Sunrise-Alarm-Clock)**
+**For a comprehensive guide (or hardware side tutorial), please go to [https://binhonglee.github.io/SunriseAlarmClock](https://binhonglee.github.io/SunriseAlarmClock)**
 
 ### Requirements
 
@@ -16,7 +16,7 @@ This program requires the following stuffs to work on your computer:
 
 1. Clone this repository
 ```sh
-$ git clone https://github.com/binhonglee/AVR---Sunrise-Alarm-Clock/
+$ git clone https://github.com/binhonglee/SunriseAlarmClock/
 ```
 
 2. (Optional) Check the Makefile to see if it fits your microcontroller and controller.
@@ -39,7 +39,7 @@ To remove this program from your computer, do the following:
 2. Delete this folder
 ```sh
 $ cd ../
-$ rm -rf AVR---Sunrise-Alarm-Clock
+$ rm -rf SunriseAlarmClock
 ```
 
 ###### Author's note :

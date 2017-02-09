@@ -2,7 +2,7 @@
 
 This documentation is written around an ATMEGA168 programmed through an AVR. It might (should) be compatible with other microcontrollers but you will need to tweak the program and the set up a little bit here and there.
 
-**For software side installation instruction, please go to [https://github.com/binhonglee/AVR---Sunrise-Alarm-Clock](https://github.com/binhonglee/AVR---Sunrise-Alarm-Clock)**
+**For software side installation instruction, please go to [https://github.com/binhonglee/SunriseAlarmClock](https://github.com/binhonglee/SunriseAlarmClock)**
 
 ### Requirements
 
